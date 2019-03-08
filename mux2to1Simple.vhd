@@ -1,7 +1,8 @@
 --///////////////////////////////////////////////////////////////////////
---By Alberto A. Del Barrio (UCM)
---This is a 2to1 multiplexer for one bit
+-- By Alberto A. Del Barrio (UCM)
+-- This is a 2to1 multiplexer for one bit
 --///////////////////////////////////////////////////////////////////////
+
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
