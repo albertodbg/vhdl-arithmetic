@@ -1,4 +1,4 @@
-# vhdl-basic-structural
+# vhdl-arithmetic
 This is a VHDL repository composed of several basic arithmetic units and other blocks.
 
 This code, or a variation of it, has been employed in many of my articles. If you are interested in using this code, it would be fair if you just cite me.
